@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\IT\Agilysis\EmployeeManagement\EmployeeManagemnet\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2025-02-20T19:05:32.5280912Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=DESKTOP-7UNA1UU\VASANTHAKUMAR%3bDatabase=Employees%3bTrusted_Connection=True%3bTrustServerCertificate=True%3bTrustServerCertificate=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="EmployeeManagemnet.Data.ApplicationDbContext">
+      <Value>Server=DESKTOP-7UNA1UU\VASANTHAKUMAR%3bDatabase=Employees%3bTrusted_Connection=True%3bTrustServerCertificate=True%3bTrustServerCertificate=True%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
